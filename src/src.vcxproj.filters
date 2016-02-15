@@ -33,5 +33,13 @@
     <ClCompile Include="topKStudents.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="MainArrays1.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="FunctionHeadersArrays1.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

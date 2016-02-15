@@ -12,7 +12,7 @@ namespace spec
 
 		TEST_METHOD(inValidInputCheck)
 		{
-			int lessCount, moreCount;
+			
 			int len = removeArrayDuplicates(NULL, 1);
 			Assert::AreEqual(-1, len, L"Invalid input should return -1", LINE_INFO());
 			
